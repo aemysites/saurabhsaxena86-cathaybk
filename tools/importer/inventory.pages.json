@@ -1,0 +1,158 @@
+{
+  "templates": [
+    {
+      "name": "'Multi-purpose Grid Layout'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/digital-finance/",
+          "uuid": "fe14d0dc3f6d213a4925e09a01ad0d6c28b812c0"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/invest-manage/",
+          "uuid": "8699fd518e80a1e002daf65c60de78c4f1e83074"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/credit-loans/",
+          "uuid": "2f4eb872deec8a6ab38619061c9a938c1fcc5fb2"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/online/",
+          "uuid": "7f840eb9a9d6ff356604df0e90cfce618b511973"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/atmservice/",
+          "uuid": "741066b629b216d1d17136a300579d90f7ec1c86"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/line/",
+          "uuid": "04ceace1cb4388a4e8779bd0a4310ce1295cb8e6"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/credit-card/",
+          "uuid": "a576c4c1aef1e35d036dfb573aa53809a2843b9b"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/foreign-currency/",
+          "uuid": "82e282eb2989526cd74d7868833f90de74c3c00f"
+        }
+      ]
+    },
+    {
+      "name": "'Directory Listing Page'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/contact/help/faq/",
+          "uuid": "3030301aa102999586688336e27c64b1e5e003d0"
+        }
+      ]
+    },
+    {
+      "name": "E-commerce Dashboard",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/product/deposit/rate/",
+          "uuid": "b969a952e84fb6bba1f468ef747a8102688131e6"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/product/deposit/open-account/",
+          "uuid": "a52c9c8545a8ec3b57303e8de27f2f4630ce9660"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/product/deposit/one-account/",
+          "uuid": "285d6634b7a634bb63d14b087e9edece516c91d0"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/product/deposit/service-calculate/",
+          "uuid": "22386998e594f3d0d22f1466f033e333a1106720"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/product/deposit/currency-billboard/",
+          "uuid": "f668cd3de960e6885b77fd428b6d24e5c59d6e36"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/product/deposit/forex/",
+          "uuid": "096e53ec5413d3eefc1bb132c05589934bdd2f17"
+        }
+      ]
+    },
+    {
+      "name": "'E-commerce Product Listing'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/campaigns/ebanking/newfundfriends/",
+          "uuid": "f3eeb1f2cdbc528612a7c443b5ca45487b1503e2"
+        }
+      ]
+    },
+    {
+      "name": "News Listing",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/campaigns/loan/AJOB_PJ/",
+          "uuid": "8622da28d528068ada0cb3f238efe93681464927"
+        }
+      ]
+    },
+    {
+      "name": "'Directory Listing Page'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/contact/locations/",
+          "uuid": "2abd18dfe3e6d32c49deb5ac9e50eabfadff0505"
+        }
+      ]
+    },
+    {
+      "name": "Modular Grid Layout Template",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/security/fraud-prevention/",
+          "uuid": "3aa976e43ee2baa0d2f29a35beea4888af92a272"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/security/login-security/",
+          "uuid": "048816d405a2bb852e4927f2cd911a409a57019e"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/security/video-service/",
+          "uuid": "e6ba43a54f3b06fa7abd2b19e5e2492977f8a5cf"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/security/securitycheckup/",
+          "uuid": "4d70aff684a55df80b43faf418abacd5fb7401d1"
+        },
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/security/transaction-protection/",
+          "uuid": "76b3a58f8513914aa664d84ab7eb1755a0e41c1f"
+        }
+      ]
+    },
+    {
+      "name": "'Service Overview Page'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/about/brand/intro/",
+          "uuid": "ab9dd25f3ee5f0905fcd2817fa88e42a46fedc89"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Page'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://www.cathaybk.com.tw/cathaybk/personal/about/brand/legal-disclosure/",
+          "uuid": "c3a78877ee80da4a0460e47563370080d1d7e0f6"
+        }
+      ]
+    }
+  ]
+}
