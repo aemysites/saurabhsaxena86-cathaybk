@@ -1,0 +1,161 @@
+{
+  "originUrl": "https://www.cathaybk.com.tw",
+  "urls": [
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/about/brand/intro/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/about/brand/intro/",
+      "id": "3e70c33e5cc2619505c908b2384724e4af318ea3"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/about/brand/legal-disclosure/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/about/brand/legal-disclosure/",
+      "id": "760c820d8fba8225c46272e06bb9c02727cfc2a6"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/campaigns/ebanking/newfundfriends/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/campaigns/ebanking/newfundfriends/",
+      "id": "ac0f2fb63380fecc603891485d4d08196da5c547"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/campaigns/loan/AJOB_PJ/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/campaigns/loan/ajob-pj/",
+      "id": "2853c9d25b2894eb7a9f6ca60bc4614467102d54"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/contact/help/faq/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/contact/help/faq/",
+      "id": "91031b196e66721c25e12b38d328d6d3cc8c431c"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/contact/locations/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/contact/locations/",
+      "id": "d5b589ba0f9a13234095421be0dab8c9e4914123"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/atmservice/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/digital-service/intro/atmservice/",
+      "id": "2cc413cbbda8ec4e6ba8d18de4fba46377cb31e8"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/credit-card/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/digital-service/intro/credit-card/",
+      "id": "fb1ff99c281882dbcd32aa536c6091a9e2fccf4f"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/credit-loans/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/digital-service/intro/credit-loans/",
+      "id": "e5b0d2218c4e9accf0bf3fb0c72e31779d7162ed"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/digital-finance/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/digital-service/intro/digital-finance/",
+      "id": "badd0693b2950bb8d094fd2211791b1f606278e3"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/foreign-currency/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/digital-service/intro/foreign-currency/",
+      "id": "a12d81cfc1992fb8ffdc4247f47fd900a519e6ec"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/invest-manage/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/digital-service/intro/invest-manage/",
+      "id": "b79a510760ecf94b460c7f96a7672dc42eda737f"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/line/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/digital-service/intro/line/",
+      "id": "ceaa1cdf53b214fdfa941e499fdb8e627010ced7"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/intro/online/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/digital-service/intro/online/",
+      "id": "5e70c60a4ea7c9e8677f19542d8379e42bdf9912"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/security/fraud-prevention/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/digital-service/security/fraud-prevention/",
+      "id": "f1b4c011c2ce8b9d38ca82d06c253227d0fdf1b8"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/security/login-security/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/digital-service/security/login-security/",
+      "id": "2419610f098b5f01fe5a0a12ba9ebbf8fedd8c0f"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/security/securitycheckup/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/digital-service/security/securitycheckup/",
+      "id": "534792f770856d034335edd59886dc1cad37d292"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/security/transaction-protection/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/digital-service/security/transaction-protection/",
+      "id": "8760a8902f95238c3d87c6eeaf470fae608bc644"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/digital-service/security/video-service/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/digital-service/security/video-service/",
+      "id": "849fd954dd4e9625c7c072b861a987e9569fc45a"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/product/deposit/currency-billboard/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/product/deposit/currency-billboard/",
+      "id": "ca0888d340d8fddee8e7da42d54ee24f6fe4a3f0"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/product/deposit/forex/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/product/deposit/forex/",
+      "id": "66b78d063ac60209527cc4e91cdb3f3aeb995d05"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/product/deposit/one-account/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/product/deposit/one-account/",
+      "id": "daa84884457ef03b827733f779fcb8f71b6935ec"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/product/deposit/open-account/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/product/deposit/open-account/",
+      "id": "c2d5e98ec7fd0008250a1f3bbbf1860b1b544374"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/product/deposit/rate/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/product/deposit/rate/",
+      "id": "ae33a27b70d958ebf8ed2d1a5b5edeb5cd87a42d"
+    },
+    {
+      "url": "https://www.cathaybk.com.tw/cathaybk/personal/product/deposit/service-calculate/",
+      "source": "MANUAL",
+      "targetPath": "/cathaybk/personal/product/deposit/service-calculate/",
+      "id": "fd733359ace4a1796e8663261ca1bdf5b87084e4"
+    }
+  ],
+  "crawlOptions": {
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  }
+}
